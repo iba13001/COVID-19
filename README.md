@@ -6,7 +6,9 @@ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_c
 * Some example plots are also uploaded.  
 
 ## Examples of visualized data  
- 
+
+![](https://github.com/iba13001/COVID-19/blob/master/COVID-19%20Egypt.jpg)
+
 ![](https://github.com/iba13001/COVID-19/blob/master/COVID-19%20NYC.jpg)
 
 ![](https://github.com/iba13001/COVID-19/blob/master/COVID-19%20US.jpg)
