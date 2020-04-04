@@ -5,8 +5,8 @@ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_c
 * This data is updated daily to include the recent daily report.  
 * Some example plots are also uploaded.  
 
-## Examples of visualized data  
-![](https://github.com/iba13001/COVID-19/blob/master/COVID-19%20EGY.jpg
+## Examples of visualized data 
+![].(https://github.com/iba13001/COVID-19/blob/master/COVID-19%20EGY.jpg
 
 ![](https://github.com/iba13001/COVID-19/blob/master/COVID-19%20NYC.jpg)
 
